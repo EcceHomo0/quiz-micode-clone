@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://EcceHomo0.github.io/quiz-micode-clone",
   "devDependencies": {
     "vite": "^7.1.0"
   }
